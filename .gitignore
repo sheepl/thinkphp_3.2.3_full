@@ -1,0 +1,6 @@
+#thinkphp过滤目录Runtime 
+#运行时目录Cache
+#模版缓存目录 Data 
+#数据目录 Logs 
+#日志目录 Temp 缓存目录
+/Application/Runtime/
